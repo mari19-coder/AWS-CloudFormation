@@ -1,1 +1,0 @@
-Define regras de segurança por meio de Security Groups, protegendo a instância EC2 contra acessos não autorizados. Apenas portas específicas (como 22 para SSH e 80/443 para web) são liberadas.
