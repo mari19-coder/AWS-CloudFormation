@@ -2,6 +2,8 @@
 Este projeto foi dividido em três stacks complementares que, juntos, formam uma infraestrutura segura e funcional na AWS:
 
 Stack EC2: Cria uma instância virtual na AWS que servirá como servidor principal.
+![Stack EC2](images/)
+
 
 Stack Apache: Instala e configura o servidor web Apache na instância EC2, permitindo o acesso via HTTP/HTTPS.
 
